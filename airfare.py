@@ -162,7 +162,7 @@ routes = {
 
 # function to determine the cheapest route
 def find_cheapest_route(route=[1], cost=0):
-    # display to terminal where the program is at; uncomment the next line to track progress (slows down process significantly)
+    # displays where the program is at; uncomment the next line to track progress (slows down script significantly)
     # print route
     
     # if route is complete, return the results
